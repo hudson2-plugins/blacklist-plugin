@@ -29,6 +29,7 @@ THE SOFTWARE.
     <groupId>org.jvnet.hudson.plugins</groupId>
     <artifactId>hudson-plugin-parent</artifactId>
     <version>2.1.0</version>
+    <relativePath/>
   </parent>
 
   <artifactId>blacklist</artifactId>
