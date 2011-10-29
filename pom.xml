@@ -38,6 +38,8 @@ THE SOFTWARE.
 
   <name>Hudson Blacklist Plugin</name>
 
+  <url>http://wiki.hudson-ci.org/display/HUDSON/Blacklist+Plugin</url>
+
   <licenses>
     <license>
       <name>The MIT license</name>
